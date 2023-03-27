@@ -1,4 +1,4 @@
-﻿namespace GYWeek2
+﻿namespace Assignment_2
 {
     internal class Program
     {
