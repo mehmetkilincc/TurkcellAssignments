@@ -30,6 +30,7 @@
         #endregion
 
         #region FullProperty
+
         private string surname;
         public string Surname
         {
@@ -40,7 +41,7 @@
             }
             set
             {
-                //PropertyE değer atama işlemi gerçekleştiğinde set bloğu tetiklenir ve değer atama işlemi gerçekleşir.
+                //Propertye değer atama işlemi gerçekleştiğinde set bloğu tetiklenir ve değer atama işlemi gerçekleşir.
                 surname = value;
             }
         }
