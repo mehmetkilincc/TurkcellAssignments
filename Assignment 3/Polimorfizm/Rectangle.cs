@@ -12,7 +12,7 @@ namespace Polimorfizm
         public int Width { get; set; }
         public override double CalculateArea()
         {
-            return lenght * width;
+            return Lenght * Width;
         }
     }
 }
