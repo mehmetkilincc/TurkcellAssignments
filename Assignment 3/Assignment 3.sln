@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfizm", "Polimorfizm\Polimorfizm.csproj", "{CC858037-DAF5-4AEA-A211-AD3D602D949E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{0D47E7CF-2BF7-47E4-A2E8-5E08DF6F7308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{0D47E7CF-2BF7-47E4-A2E8-5E08DF6F7308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{A05082B1-2D67-4AFB-AF93-786269A4CEE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0D47E7CF-2BF7-47E4-A2E8-5E08DF6F7308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D47E7CF-2BF7-47E4-A2E8-5E08DF6F7308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D47E7CF-2BF7-47E4-A2E8-5E08DF6F7308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05082B1-2D67-4AFB-AF93-786269A4CEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05082B1-2D67-4AFB-AF93-786269A4CEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05082B1-2D67-4AFB-AF93-786269A4CEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05082B1-2D67-4AFB-AF93-786269A4CEE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
